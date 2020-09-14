@@ -1,1 +1,16 @@
 My name is Jithinlal.
+
+
+Repository - project
+
+git clone https://github.com/jithinlal/sample-git-repo.git sample
+
+git add
+
+git commit
+
+branch
+
+pull & push
+
+local - origin
