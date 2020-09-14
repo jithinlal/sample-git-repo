@@ -13,4 +13,6 @@ branch
 
 pull & push
 
+git fetch --all
+
 local - origin
