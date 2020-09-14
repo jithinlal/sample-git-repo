@@ -14,3 +14,7 @@ branch
 pull & push
 
 local - origin
+
+
+master
+	- jithin
